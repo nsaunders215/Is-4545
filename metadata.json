@@ -1,0 +1,6 @@
+{
+  "name": "Healthcare Complaint Triage Agent",
+  "description": "AI-assisted clinical and operational triage platform for healthcare organizations to review, assess severity, detect safety/compliance risks, and route patient grievances with human oversight.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
